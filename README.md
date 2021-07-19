@@ -12,9 +12,9 @@ This project is using for Git Basic command practice
 6. Push code repository to remove Github repository (Need create a Github repository)
 7. Update Readme on Github and commit.
 8. Synchronize latest code on local.
-
+9. Test pull. AQUINRU 20210719
 # Requirements
 
 1. Use command line to complete the related operations.
 2. Follow the [Git Best Practices](https://github.com/iamcoach/git) as much as possible when you are using Git.
-Test pull
+
